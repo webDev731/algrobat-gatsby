@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "appAssociation": "AUTO",
+    "site": "algroups",
+    "public": "public",      
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
